@@ -6,7 +6,7 @@ Markdown
 * python
 * c
 ##steps to be a good programmer
-1.practice daily
-2.sleep well
-use  git and github
+1. practice daily
+2. sleep well
+3. use  git and github
 ***this sentence is both bold and italized.***
