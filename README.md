@@ -1,6 +1,6 @@
 # PF-lab3-26k-3030
 Markdown
- # #c languages
+ # # C languages
 * c++
 * java
 * python
