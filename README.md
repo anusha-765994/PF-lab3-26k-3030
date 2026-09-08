@@ -5,7 +5,7 @@ Markdown
 * java
 * python
 * c
-# #steps to be a good programmer
+# # steps to be a good programmer
 1. practice daily
 2. sleep well
 3. use  git and github
