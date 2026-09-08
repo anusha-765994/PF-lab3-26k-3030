@@ -9,4 +9,4 @@ Markdown
 1. practice daily
 2. sleep well
 3. use  git and github
-         * **this sentence is both bold and italized.***
+         ***this sentence is both bold and italized.***
